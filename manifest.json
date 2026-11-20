@@ -1,8 +1,8 @@
 {
   "title": "建方シーケンス",
-  "icon": "https://tc-tools-test.github.io/tc-sequencing/icon.png",
-  "url": "https://tc-tools-test.github.io/tc-sequencing/index.html",
-  "infoUrl": "https://github.com/tc-tools-test/tc-sequencing#readme",
+  "icon": "https://tc-tools-test.github.io/tc-shunxu/icon.png",
+  "url": "https://tc-tools-test.github.io/tc-shunxu/index.html",
+  "infoUrl": "https://github.com/tc-tools-test/tc-shunxu#readme",
   "description": "鉄骨建方の順序管理：フェーズ・グループ・順序番号・シミュレーション・Excel レポート",
   "extensionType": ["3dviewer"]
 }

@@ -13,7 +13,7 @@ Trimble Connect 3D Viewer 用の拡張機能（鉄骨建方の順序管理）の
 Trimble Connect（Web 版）でプロジェクトを開き、**設定 → 拡張機能** でカスタム拡張機能として次の URL を追加します。
 
 ```
-https://tc-tools-test.github.io/tc-sequencing/manifest.json
+https://tc-tools-test.github.io/tc-shunxu/manifest.json
 ```
 
 このリポジトリはビルド成果物のみです。ソースからの更新は `npm run deploy` で行います。
